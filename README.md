@@ -1,1 +1,3 @@
-# Project_1
+# Project 1
+# This project analyzes public air quality data collected from PurpleAir sensors located across Nebraska on behalf of the UNMC Water, Climate and Health Working Group. The goal of this project is to evaluate pollution trends and determine whether PM2.5, PM10, and VOC concentrations align with EPA air quality standards. The analysis includes data cleaning, summary statistics by sensor location, identification of extreme pollution events and their locations, environmental categorization such as humidity and temperature, and assessment of potential AQI health risks.
+# Python was used to organize datasets, classify environmental conditions, and flag high risk locations. The repository contains cleaned datasets, annotated code, and reproducible workflows designed to support transparent scientific analysis.
